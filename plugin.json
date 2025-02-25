@@ -4030,5 +4030,19 @@
     "Manufacturer": "Waves Audio",
     "Website": "https://www.waves.com/plugins/trueverb",
     "Details": "It's a Reverb 🕌 plugin, but I haven't rated it yet. Use it wherever. Here is to the official page. This plugin was made by Waves Audio and I got it for free during a promotion."
-  }
+  },
+  {
+    "Plugin": "Pluginname",
+    "Category": "Channel Strip, Dynamics, EQ, Saturation, Reverb, Delay, Pitch, Chorus, Multi, Monitor, Master, Specialized, Instrument, Guitar, Bass, Amp, Pedal",
+    "Original Hardware": "Originalhardware",
+    "Type": "FET, OPTO, VCA, vari-mu, tube, tape, +other, diode-bridge, transistor",
+    "Feel": "Clean, Warm, Smooth, Punchy, Slow, Fast, Bright, Subtle, Fat",
+    "Use On...": "Anything 💎, Bass 🔻, Bus 🚌, Drum 🥁, Master 🏁, Vocal 🎙️, Guitar, Creative, Instrument, Utility",
+    "Notes": "Notes",
+    "Rating/5": 0,
+    "Cost": "Purchased, Limited, Included, Free",
+    "Manufacturer": "Manufacturer",
+    "Website": "Website",
+    "Details": ""
+  },
 ]
