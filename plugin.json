@@ -1775,7 +1775,7 @@
     "Cost": "Purchased",
     "Manufacturer": "Plugin Alliance",
     "Website": "",
-    "Details": "This was based off of the GML 8200 EQ. It's a EQ 🦏, Master 🗿 plugin, and I don't really hate nor love it. It's mostly used on/as Master 🏁, but feel free to put it elsewhere. This plugin was made by Plugin Alliance and I paid for the damn thing."
+    "Details": "This was based off of the GML 8200 EQ. It's a EQ 🦏, Master 🗿 plugin, and it's really good. It's mostly used on/as Master 🏁, but feel free to put it elsewhere. This plugin was made by Plugin Alliance and I paid for the damn thing."
   },
   {
     "Plugin": "TDR Nova",
@@ -4030,6 +4030,20 @@
     "Manufacturer": "Waves Audio",
     "Website": "https://www.waves.com/plugins/trueverb",
     "Details": "It's a Reverb 🕌 plugin, but I haven't rated it yet. Use it wherever. Here is to the official page. This plugin was made by Waves Audio and I got it for free during a promotion."
+  },
+  {
+    "Plugin": "AirMusic",
+    "Category": "Specialized",
+    "Original Hardware": "",
+    "Type": "",
+    "Feel": "",
+    "Use On...": "Anything 💎, Utility",
+    "Notes": "Mimics distance",
+    "Rating/5": 0,
+    "Cost": "Free",
+    "Manufacturer": "soundparticles",
+    "Website": "Website",
+    "Details": ""
   },
   {
     "Plugin": "Pluginname",
