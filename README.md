@@ -1,7 +1,7 @@
 ## To The No One That Finds This:
 
 This is the database for my Plugin Finder iOS app. 
-The SwiftUI code is not finished, and probably won't be uploaded when it is.  
+The SwiftUI code is finished, and I'll share it when the right time comes.    
 BECAUSE I SAID SO.  
 jk if you're interested find ways to contact me. 
 
