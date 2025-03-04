@@ -4046,6 +4046,20 @@
     "Details": ""
   },
   {
+    "Plugin": "Protility",
+    "Category": "Monitor 🕶️, Specialized 🗜️",
+    "Original Hardware": "",
+    "Type": "",
+    "Feel": "",
+    "Use On...": "Utility 🪚",
+    "Notes": "phase correlation meter, stereo balance meter, stereo image meter, loudness meter, spectrum analyzer",
+    "Rating/5": 0,
+    "Cost": "Free",
+    "Manufacturer": "process",
+    "Website": "https://process.audio/en/products/protility",
+    "Details": ""
+  },
+  {
     "Plugin": "zzPluginname",
     "Category": "Channel Strip 🚀, Dynamics 🌊, EQ 🦏, Saturation 🖌️, Reverb 🕌, Delay ⏲️, Pitch 🥎, Chorus 🪱, Multi 🎛️, Monitor 🕶️, Master 🏁, Specialized 🗜️, Instrument 🎶, Guitar 🎸, Bass 🔻, Amp 📦, Pedal ⛸️",
     "Original Hardware": "Originalhardware",
