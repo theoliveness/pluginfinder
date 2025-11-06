@@ -4973,7 +4973,22 @@
 "Details": "It's a Reverb 🕌 plugin, but I haven't rated it yet. Use it wherever. This plugin was made by co and it was included with another purchase.", 
 },
 
-  
+{
+"Plugin": "DeBleedSnare", 
+"Category": "Specialized 🗜️", 
+"Original Hardware": "", 
+"Type": "", 
+"Feel": "", 
+"Use On": "Drum 🥁,Utility 🪚", 
+"Notes": "", 
+"Rating": 0, 
+"Cost": "Included", 
+"Manufacturer": "acon", 
+"Website": "", 
+"Details": "It's a Specialized 🗜️ plugin, but I haven't rated it yet. It's mostly used on/as Drum 🥁, Utility 🪚, but feel free to put it elsewhere. This plugin was made by acon and it was included with another purchase.", 
+},
+
+
   {
     "Plugin": "zzPluginname",
     "Category": "Channel Strip 🚀, Dynamics 🌊, EQ 🦏, Saturation 🖌️, Reverb 🕌, Delay ⏲️, Pitch 🥎, Chorus 🪱, Multi 🎛️, Monitor 🕶️, Master 🏁, Specialized 🗜️, Instrument 🎶, Guitar 🎸, Bass 🔻, Amp 📦, Pedal ⛸️",
