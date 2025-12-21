@@ -4988,6 +4988,139 @@
 "Details": "It's a Specialized 🗜️ plugin, but I haven't rated it yet. It's mostly used on/as Drum 🥁, Utility 🪚, but feel free to put it elsewhere. This plugin was made by acon and it was included with another purchase.", 
 },
 
+{
+"Plugin": "SpaceBlender", 
+"Category": "Reverb 🕌", 
+"Original Hardware": "", 
+"Type": "", 
+"Feel": "", 
+"Use On": "Anything 💎", 
+"Notes": "", 
+"Rating": 4, 
+"Cost": "Limited", 
+"Manufacturer": "soundtoys", 
+"Website": "", 
+"Details": "It's a Reverb 🕌 plugin, and it's pretty good. Use it wherever. This plugin was made by soundtoys and I got it for free during a promotion.", 
+},
+
+  {
+"Plugin": "LittleRadiator", 
+"Category": "Saturation 🖌️", 
+"Original Hardware": "Altec 1566A", 
+"Type": "tube", 
+"Feel": "", 
+"Use On": "Anything 💎", 
+"Notes": "", 
+"Rating": 0, 
+"Cost": "Limited", 
+"Manufacturer": "soundtoys", 
+"Website": "", 
+"Details": "This was based off of the Altec 1566A. It's a tube style Saturation 🖌️ plugin, but I haven't rated it yet. Use it wherever. This plugin was made by soundtoys and I got it for free during a promotion.", 
+},
+
+  {
+"Plugin": "LittlePrimalTap", 
+"Category": "Delay ⏲️", 
+"Original Hardware": "Prime Time", 
+"Type": "", 
+"Feel": "", 
+"Use On": "Anything 💎", 
+"Notes": "", 
+"Rating": 0, 
+"Cost": "Limited", 
+"Manufacturer": "soundtoys", 
+"Website": "", 
+"Details": "This was based off of the Prime Time. It's a Delay ⏲️ plugin, but I haven't rated it yet. Use it wherever. This plugin was made by soundtoys and I got it for free during a promotion.", 
+},
+
+  {
+"Plugin": "LittleMicroShift", 
+"Category": "Chorus 🪱", 
+"Original Hardware": "", 
+"Type": "", 
+"Feel": "", 
+"Use On": "Anything 💎", 
+"Notes": "", 
+"Rating": 0, 
+"Cost": "Limited", 
+"Manufacturer": "soundtoys", 
+"Website": "", 
+"Details": "It's a Chorus 🪱 plugin, but I haven't rated it yet. Use it wherever. This plugin was made by soundtoys and I got it for free during a promotion.", 
+},
+
+  {
+"Plugin": "EchoBoyJr", 
+"Category": "Delay ⏲️", 
+"Original Hardware": "Studio Tape: Ampex ATR-102.
+Plex: EP-3 tape echo.
+Space: RE-201 tape echo.
+Cheap Tape: worn out tape.
+Memory: bucket brigade echo pedal.
+Ambient: Warm, diffuse, chorused echoes.
+Transmitter: Resonant CB radio style.", 
+"Type": "", 
+"Feel": "", 
+"Use On": "Anything 💎", 
+"Notes": "", 
+"Rating": 0, 
+"Cost": "Limited", 
+"Manufacturer": "soundtoys", 
+"Website": "", 
+"Details": "This was based off of the Studio Tape: Ampex ATR-102.
+Plex: EP-3 tape echo.
+Space: RE-201 tape echo.
+Cheap Tape: worn out tape.
+Memory: bucket brigade echo pedal.
+Ambient: Warm, diffuse, chorused echoes.
+Transmitter: Resonant CB radio style.. It's a Delay ⏲️ plugin, but I haven't rated it yet. Use it wherever. This plugin was made by soundtoys and I got it for free during a promotion.", 
+},
+
+{
+"Plugin": "Devil-Loc", 
+"Category": "Dynamics 🌊", 
+"Original Hardware": "Level-Loc", 
+"Type": "", 
+"Feel": "", 
+"Use On": "Anything 💎,Drum 🥁", 
+"Notes": "", 
+"Rating": 0, 
+"Cost": "Limited", 
+"Manufacturer": "soundtoys", 
+"Website": "", 
+"Details": "This was based off of the Level-Loc. It's a Dynamics 🌊 plugin, but I haven't rated it yet. Use it on anything, but on the Drum 🥁 is where it really shines. This plugin was made by soundtoys and I got it for free during a promotion.", 
+},
+
+{
+"Plugin": "LittlePlate", 
+"Category": "Reverb 🕌", 
+"Original Hardware": "EMT 140", 
+"Type": "", 
+"Feel": "", 
+"Use On": "Anything 💎", 
+"Notes": "", 
+"Rating": 0, 
+"Cost": "Limited", 
+"Manufacturer": "soundtoys", 
+"Website": "", 
+"Details": "This was based off of the EMT 140. It's a Reverb 🕌 plugin, but I haven't rated it yet. Use it wherever. This plugin was made by soundtoys and I got it for free during a promotion.", 
+},
+
+{
+"Plugin": "Insight 2", 
+"Category": "Monitor 🕶️,Master 🗿", 
+"Original Hardware": "", 
+"Type": "", 
+"Feel": "", 
+"Use On": "Utility 🪚,Master 🏁", 
+"Notes": "", 
+"Rating": 0, 
+"Cost": "Limited", 
+"Manufacturer": "izotope", 
+"Website": "", 
+"Details": "It's a Monitor 🕶️, Master 🗿 plugin, but I haven't rated it yet. It's mostly used on/as Utility 🪚, Master 🏁, but feel free to put it elsewhere. This plugin was made by izotope and I got it for free during a promotion.", 
+},
+
+  
 
   {
     "Plugin": "zzPluginname",
